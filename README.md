@@ -3,14 +3,14 @@ Mi nombre es Carlos Padron
 🌱 Actualmente estudiante del DAM 1 adquiriendo conocimientos en el mundo de la informatica
 🔭 Trabajando actualmente realizando repartos a domicilio  
 ***
-###- Objetivos actuales🤔
+### Objetivos actuales🤔
   * Completar ciclo de DAM 1
   * Adquirir conocimientos básicos para desarrollarme en el mundo de la programación
   * Obtener los instrumentos y conocimientos necesarios para conseguir un trabajo como programador
   * Aprender el lenguaje Java
 
 ***
-###- Conocimientos Actuales:
+### Conocimientos Actuales:
   * Construccion 
   * Piking 
   * Instalacion de antenas
