@@ -2,8 +2,7 @@
 Mi nombre es Carlos Padron
 
  -🌱 Actualmente estudiante del DAM 1 adquiriendo conocimientos en el mundo de la informatica
-
- -🔭 Trabajando actualmente realizando repartos a domicilio  
+  
 
 ***
 ### Objetivos actuales🤔
